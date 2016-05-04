@@ -1,10 +1,10 @@
-hi I‘m jenn kaplan
+hi I’m jenn kaplan
 
-I‘m a JS frontend and tools engineer.
+I’m a JS frontend and tools engineer.
 
 I currently work at Apple.
 
-you can‘t hire me.
+you can’t hire me.
 
 [follow me on twitter](https://twitter.com/jkap)
 
