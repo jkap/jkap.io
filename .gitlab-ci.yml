@@ -3,6 +3,7 @@ pages:
   script:
   - mkdir .public
   - cp -r * .public
+  - cp -r .well-known .public/.well-known
   - mv .public public
   artifacts:
     paths:
