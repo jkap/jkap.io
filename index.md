@@ -1,4 +1,7 @@
-hi I’m jenn kaplan
+---
+title: "j kaplan: the website"
+---
+hi I’m j kaplan
 
 I’m a JS frontend and tools engineer.
 
