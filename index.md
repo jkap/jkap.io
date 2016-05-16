@@ -5,7 +5,7 @@ hi I’m j kaplan
 
 I’m a JS frontend and tools engineer.
 
-I currently work at Apple.
+I currently work on maps at Apple.
 
 you can’t hire me.
 
