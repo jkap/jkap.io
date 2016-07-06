@@ -1,11 +1,11 @@
 ---
 title: "j kaplan: the website"
 ---
-hi I’m j kaplan
+hi i’m j kaplan
 
-I’m a JS frontend and tools engineer.
+i’m a js frontend and tools engineer.
 
-I currently work on maps at Apple.
+i currently work on maps at apple.
 
 you can’t hire me.
 
