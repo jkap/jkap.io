@@ -3,7 +3,7 @@ title: "j kaplan: the website"
 ---
 hi i’m j kaplan
 
-i’m a js frontend and tools engineer.
+i’m a js tools and server engineer.
 
 i currently work on maps at apple.
 
