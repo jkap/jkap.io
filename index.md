@@ -13,4 +13,6 @@ you can’t hire me.
 
 [look at my github](https://github.com/jkap)
 
+[play my games](https://jkap.itch.io)
+
 bye
